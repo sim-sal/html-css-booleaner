@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
 header{
     background-color: cornflowerblue;
     background-image: url('img/pattern.png');
@@ -9,3 +14,24 @@ header{
     width: 20%;
     padding-top: 2%;
 }
+
+h1{
+    font-size: 60px;
+    margin-top: 25px;
+}
+
+.sottotitolo{
+    color: rgb(0, 141, 141);
+    font-size: 25px;
+}
+
+#booleaner{
+    font-size: 25px;
+    color: cornflowerblue;
+    display: inline-block;
+}
+
+#data-sottotitolo{
+    color: rgb(0, 141, 141);
+}
+
