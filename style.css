@@ -62,3 +62,25 @@ ul{
     padding-top: 30px;
     padding-left: 20px;
 }
+
+table{
+    font-size: 20px;
+    font-weight: bold;
+    background-size: cover;
+    padding-top: 30px;
+}
+
+.riga-uno{
+    color: white;
+    background-color: rgb(89, 89, 250);
+}
+
+.riga-due-quattro{
+    background-color: rgb(200, 200, 250);
+}
+
+.prima-seconda-colonna{
+    width: 350px;
+}
+
+
