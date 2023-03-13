@@ -40,7 +40,7 @@ h1{
 }
 
 .foto-tim{
-    height: 500px;
+    height: 550px;
     padding-top: 40px;
 }
 
@@ -81,6 +81,29 @@ table{
 
 .prima-seconda-colonna{
     width: 350px;
+}
+
+footer{
+    padding-left: 10px;
+    padding-top: 50px;
+}
+
+h4 , h5{
+    color: white;
+    background-repeat: no-repeat;
+    font-size: 30px;
+    width: 350px;
+    height: 300px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+h4{
+    background-image: url('img/graph.jpg');
+}
+
+h5{
+    background-image: url('img/monitor.jpg');
 }
 
 
