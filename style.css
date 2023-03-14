@@ -68,6 +68,7 @@ table{
     font-weight: bold;
     background-size: cover;
     padding-top: 30px;
+    border-spacing: 0;
 }
 
 .riga-uno{
